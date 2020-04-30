@@ -1,0 +1,30 @@
+body{
+background-color: #f4f1f1;
+}
+.hub{
+color:#c07c00;
+}
+.jumbotron{
+color:#000;
+background-color: #155858;
+border-radius: 44px;
+background: linear-gradient(145deg, #e6e6e6, #ffffff);
+box-shadow:  11px 11px 22px #e0e0e0, 
+-11px -11px 22px #ffffff;
+}
+
+.navbar-brand{
+font-size: 25px;
+}
+.navbar-inverse .navbar-brand {
+	color:#ecebeb;
+}
+.navbar-nav>li>a {
+font-size:18px;
+}
+.page-footer{
+color: #fff;
+padding: 10px;
+background-color: #000;
+height: 40px;
+}
